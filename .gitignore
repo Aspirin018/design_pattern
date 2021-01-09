@@ -3,5 +3,5 @@
 *.log
 logs/
 build/
-targert/
+target/
 */target/
