@@ -1,10 +1,8 @@
-package design.pattern.adapter.current;
+package design.pattern.structual.adapter.current;
 
-import org.springframework.aop.framework.adapter.AdvisorAdapter;
-import org.springframework.orm.jpa.JpaVendorAdapter;
+import org.springframework.web.servlet.DispatcherServlet;
 import org.springframework.web.servlet.HandlerAdapter;
-
-import javax.xml.bind.annotation.adapters.XmlAdapter;
+import org.springframework.web.servlet.mvc.Controller;
 
 public class Test {
     public static void main(String[] args) {
@@ -15,5 +13,7 @@ public class Test {
 //        AdvisorAdapter
 //        JpaVendorAdapter
 //        HandlerAdapter
+//        Controller
+//        DispatcherServlet
     }
 }

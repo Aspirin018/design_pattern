@@ -1,4 +1,4 @@
-package design.pattern.adapter.objectadapter;
+package design.pattern.structual.adapter.objectadapter;
 
 /**
  * 被适配者

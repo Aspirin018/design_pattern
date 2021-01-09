@@ -1,4 +1,4 @@
-package design.pattern.adapter.current;
+package design.pattern.structual.adapter.current;
 
 /**
  * 目标类 5V直流电

@@ -1,4 +1,4 @@
-package design.pattern.adapter.current;
+package design.pattern.structual.adapter.current;
 
 /**
  * 被适配者 220V交流电

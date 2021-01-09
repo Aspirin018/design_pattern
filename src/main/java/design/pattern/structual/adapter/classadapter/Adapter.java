@@ -1,4 +1,4 @@
-package design.pattern.adapter.classadapter;
+package design.pattern.structual.adapter.classadapter;
 
 /**
  * 适配器
