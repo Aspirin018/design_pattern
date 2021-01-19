@@ -1,10 +1,5 @@
 package design.pattern.behavioral.templatemethod;
 
-import org.apache.ibatis.executor.BaseExecutor;
-
-import javax.servlet.http.HttpServlet;
-import java.util.AbstractList;
-
 public class Test {
     public static void main(String[] args) {
         System.out.println("设计模式课程start---");
