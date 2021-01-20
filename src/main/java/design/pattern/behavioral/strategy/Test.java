@@ -2,9 +2,11 @@ package design.pattern.behavioral.strategy;
 
 import org.springframework.beans.factory.support.InstantiationStrategy;
 import org.springframework.core.io.Resource;
+import org.springframework.expression.ExpressionParser;
 
 import java.util.Comparator;
 import java.util.TreeMap;
+import java.util.regex.Pattern;
 
 public class Test {
 //    public static void main(String[] args) {
@@ -27,5 +29,7 @@ public class Test {
 
 //        Comparator
 //        InstantiationStrategy
+//        Pattern
+//        ExpressionParser
     }
 }
